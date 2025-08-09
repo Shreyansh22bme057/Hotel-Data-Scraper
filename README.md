@@ -33,8 +33,8 @@ A Python-based web scraping tool that extracts hotel details from **Booking.com*
    ```bash
    python scrapper_code.py
 3. **Provide input when prompted**:
-Paste the Booking.com search results URL (must be a valid page).
-Enter a file name for the CSV output.
+- Paste the Booking.com search results URL (must be a valid page).
+- Enter a file name for the CSV output.
 
 4.**View results**:
 The output CSV file will be saved in the same directory.
